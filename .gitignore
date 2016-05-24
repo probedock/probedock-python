@@ -1,0 +1,5 @@
+.idea
+*.yml
+__pycache__
+
+*.egg-info
